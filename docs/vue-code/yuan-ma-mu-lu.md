@@ -1,4 +1,4 @@
-**Vue\ **
+**Vue\**
 
 ```
 benchmarks\    ;测试目录
