@@ -6,7 +6,11 @@
 
 2.百度 google
 
-3.vue其实
+3.vue项目 node项目  package.json 
+
+
+
+
 
 #### **vue构造函数**
 
