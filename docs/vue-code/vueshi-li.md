@@ -1,6 +1,6 @@
 ![](/image/shengming.png)
 
-el属性传入的如果不是element，最后会通过`document.querySelector`来获取的，这个接口性能较差，所以，el传入一个element性能会更好。
+* el属性传入的如果不是element，最后会通过`document.querySelector`来获取的，这个接口性能较差，所以，el传入一个element性能会更好。
 
 * `$mount`方法中对`html`，`body`标签做了过滤，这两个不能用来作为渲染的根节点。
 
